@@ -3,8 +3,6 @@
          height="45"
          width="45" /></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 💬 Ask me about Flutter or any tech-related stuff.

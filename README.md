@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Welcome+to+Code+Hutt!)](https://git.io/typing-svg)
 ---
-Software Developer | Android-iOS-Flutter | Entrepreneurial-Minded | Mentor
+<!--  Software Developer | Android-iOS-Flutter | Entrepreneurial-Minded | Mentor -->
   
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfCefH4Beq7ivaIF5mMPLAw?style=social)](https://www.youtube.com/c/FlutterBucket?sub_confirmation=1) -->
 <!-- [![](https://komarev.com/ghpvc/?username=codehutt)](https://github.com/CodeHutt)
